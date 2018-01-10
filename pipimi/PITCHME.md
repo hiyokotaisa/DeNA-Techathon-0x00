@@ -1,10 +1,9 @@
 @title[intro]
 
-# ふつうのマークダウン
+# Git Pitch
 
-URL: https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%97%E3%83%86%E3%83%94%E3%83%94%E3%83%83%E3%82%AF
-
-「とびっきりの○○4コマ!!」
+「とびっきりの○○4コマ!!」  
+[Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%97%E3%83%86%E3%83%94%E3%83%94%E3%83%83%E3%82%AF)参照。
 
 ---
 
@@ -21,6 +20,8 @@ URL: https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%97%E3%83%86%E3%83%94%E3%83%94
 @title[long-text]
 
 # 長いテキスト(Wikipediaより)
+
+*スクロールできないので注意*
 
 竹書房のウェブコミック配信サイト『まんがライフWIN』にて2014年11月29日より連載し、SNSを中心に人気を集めた[1]。
 
