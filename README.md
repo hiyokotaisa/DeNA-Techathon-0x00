@@ -1,4 +1,4 @@
-# DeNA-Techathon-0x00
+# DeNA-Techathon-0x01
 
 ## がいよう
 
@@ -6,6 +6,6 @@
 
 ## せいか！
 
-[hiyoko_taisa](hiyoko_taisa/README.md)
-[mazgi](mazgi/README.md)
-[mozq912](mozq912/README.md)
+1. [hiyoko_taisa](hiyoko_taisa/README.md)
+1. [mazgi](mazgi/README.md)
+1. [mozq912](mozq912/README.md)
