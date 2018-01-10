@@ -1,4 +1,4 @@
-# DeNA-Techathon-0x01
+# DeNA-Techathon-0x00
 
 ## がいよう
 
@@ -8,8 +8,7 @@
 1. もくもくとハック
 1. 時間のゆるすかぎり成果発表！
 
-です！
-
+です！  
 自分ができる限りのことを集中してやりましょう！
 
 その他タイムスケジュールや会場などは[イベントページ](https://denatechstudio.connpass.com/event/72710/)を参照してください。
@@ -22,15 +21,21 @@ GitHubにログインしましょう！
 
 **以下の手順は成果発表の時間までに完了してください。**
 
+#### (GitHubに慣れている方向け)かんたん3行説明
+
+1. このリポジトリをforkします
+1. `ご自分のConpassユーザー名` で始まるブランチを切ります
+1. `ご自分のConpassユーザー名/PITCHME.md` に成果を書いてPRを出してください
+
+*以降はGitやGitHubの操作に慣れていない方向けの最小限の説明です。*  
+*慣れている方はブランチ名とファイル名に注意してPull Requestを出していただければ :ok: です。*  
+*また[GitPitch](https://github.com/gitpitch/gitpitch/wiki)向けのMarkdownを書いていただくと綺麗に表示できます。*
+
 #### 1. リポジトリをforkする
 
-このリポジトリをforkしてください。  
-このボタンからforkできます。  
+このリポジトリをforkしてください。  
+右上のボタンからforkできます。  
 ![](images/image_0001.png)
-
-*以降はGitやGitHubの操作に慣れていない方向けの最小限の説明です。*  
-*慣れている方は普通にPull Requestを出していただければ :ok: です。*  
-*また[GitPitch](https://github.com/gitpitch/gitpitch/wiki)向けのMarkdownを書いていただくと綺麗に表示できます。*
 
 #### 2. PITCHME.md ファイルを開く
 
@@ -40,7 +45,7 @@ Chromeなどのブラウザ上で編集できるようになります。
 
 #### 3. PITCHME.md ファイルに成果を書く
 
-このような編集画面が表示されたら `Edit file` のエリアで成果を書いてください。  
+編集画面が表示されたら `Edit file` のエリアで成果を書いてください。  
 ![](images/image_0021.png)
 
 もちろん日本語でテキストで書いていただいて問題ありません！  
