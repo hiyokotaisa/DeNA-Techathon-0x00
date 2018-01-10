@@ -55,11 +55,10 @@ Chromeなどのブラウザ上で編集できるようになります。
 
 ##### 便利な書式
 
-また[Markdown](https://guides.github.com/features/mastering-markdown/)という書き方をすると見出しや強調表示、コードの色分けができます。
-
+また[Markdown](https://guides.github.com/features/mastering-markdown/)という書き方をすると見出しや強調表示、コードの色分けができます。  
 さらに[GitPitch](https://github.com/gitpitch/gitpitch/wiki)向けのMarkdownを書くとスライドのように表示できます。
 
-もちろん、blogなどの書き慣れているメディアに成果を書いてURLを貼っていただくだけでもなんら問題ありません！  
+もちろん、ご自身のblogなど書き慣れているメディアに成果を書いてURLを貼っていただくだけでもなんら問題ありません！  
 大事なのは発表ではなく成果そのものです。  
 一番書きやすい方法で成果を簡単にまとめてください。
 
@@ -67,7 +66,7 @@ Chromeなどのブラウザ上で編集できるようになります。
 
 ファイルを保存するとブランチが切られてコミットできます。
 
-このとき **必ず** `Create a new branch~` と書いてある方を選択してください。  
+このとき **必ず** `Create a new branch ~` と書いてある方を選択してください。  
 また赤線の部分はご自分のConnpassユーザー名で始めてください。  
 *例) Connpassユーザー名が `mazgi` の場合は `mazgi-patch-1` など*
 
@@ -89,8 +88,8 @@ Chromeなどのブラウザ上で編集できるようになります。
 
 Connpass User Name | GitPitch | Normal Markdown
 ---|---|---
-(example)pipimi|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=pipimi)|[Normal Markdown](pipimi/PITCHME.md)
-(example)popuko|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=popuko)|[Normal Markdown](popuko/PITCHME.md)
+(example) pipimi|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=pipimi)|[Normal Markdown](pipimi/PITCHME.md)
+(example) popuko|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=popuko)|[Normal Markdown](popuko/PITCHME.md)
 [hiyoko_taisa](https://connpass.com/user/hiyoko_taisa/)|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=hiyoko_taisa)|[Normal Markdown](hiyoko_taisa/PITCHME.md)
 [mazgi](https://connpass.com/user/mazgi/)|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=mazgi)|[Normal Markdown](mazgi/PITCHME.md)
 [mozq912](https://connpass.com/user/mozq912/)|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=mozq912)|[Normal Markdown](mozq912/PITCHME.md)
