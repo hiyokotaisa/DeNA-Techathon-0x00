@@ -1,4 +1,4 @@
-# DeNA-Techathon-0x00.
+# DeNA-Techathon-0x00
 
 ## がいよう
 
