@@ -27,11 +27,12 @@ GitHubにログインしましょう！
 1. `ご自分のConpassユーザー名` で始まるブランチを切ります
 1. `ご自分のConpassユーザー名/PITCHME.md` に成果を書いてPRを出してください
 
-*以降はGitやGitHubの操作に慣れていない方向けの最小限の説明です。*  
-*慣れている方はブランチ名とファイル名に注意してPull Requestを出していただければ :ok: です。*  
 *また[GitPitch](https://github.com/gitpitch/gitpitch/wiki)向けのMarkdownを書いていただくと綺麗に表示できます。*
 
 #### 1. リポジトリをforkする
+
+ここからはGitやGitHubの操作に慣れていない方向けの最小限の説明です。  
+*慣れている方はブランチ名とファイル名に注意してPull Requestを出していただければ :ok: です。*
 
 このリポジトリをforkしてください。  
 右上のボタンからforkできます。  
