@@ -1,5 +1,9 @@
 # DeNA-Techathon-0x00.
 
+## がいよう
+
+[イベントページはこちらです](https://denatechstudio.connpass.com/event/72710/)
+
 ## せいか！
 
 [hiyoko_taisa](hiyoko_taisa/README.md)
