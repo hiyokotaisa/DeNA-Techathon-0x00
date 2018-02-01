@@ -22,8 +22,8 @@
 #### (GitHubに慣れている方向け) かんたん3行説明
 
 1. このリポジトリをforkします
-1. `ご自分のConpassユーザー名` で始まるブランチを切ります
-1. `ご自分のConpassユーザー名/PITCHME.md` に成果を書いてPRを出してください
+1. `${ご自分のConpassユーザー名}` で始まるブランチを切ります
+1. `achievement/${ご自分のConpassユーザー名}/PITCHME.md` に成果を書いてPRを出してください
 
 *また[GitPitch](https://github.com/gitpitch/gitpitch/wiki)向けのMarkdownを書いていただくと綺麗に表示できます。*
 
@@ -38,7 +38,7 @@
 
 #### 2. PITCHME.md ファイルを開く
 
-`ご自分のConpassユーザー名/PITCHME.md` という空ファイルがあるので右下のペンのようなアイコンをクリックしてください。  
+`achievement/${ご自分のConpassユーザー名}/PITCHME.md` という空ファイルがあるので右下のペンのようなアイコンをクリックしてください。  
 Chromeなどのブラウザ上で編集できるようになります。  
 ![](images/image_0011.png)
 
