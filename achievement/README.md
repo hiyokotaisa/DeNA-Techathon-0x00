@@ -20,4 +20,3 @@ Connpass User Name | GitPitch | Normal Markdown
 [ken5owata](https://connpass.com/user/ken5owata/)|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=achievement/ken5owata)|[Normal Markdown](ken5owata/PITCHME.md)
 [ito_junichi_7165](https://connpass.com/user/ito_junichi_7165/)|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=achievement/ito_junichi_7165)|[Normal Markdown](ito_junichi_7165/PITCHME.md)
 [ouisql](https://connpass.com/user/ouisql/)|[GitPitch](https://gitpitch.com/DeNATECHSTUDIO/DeNA-Techathon-0x00/master?p=achievement/ouisql)|[Normal Markdown](ouisql/PITCHME.md)
-
