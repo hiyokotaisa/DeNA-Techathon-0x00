@@ -6,8 +6,13 @@
 - PythonでAnsibleのCallback Pluginを書いた
 - Twitter API経由でAnsible Playbookの実行が完了するとつぶやかれる
 ---
+## つかいかた
+- playbookがあるディレクトリ直下にcallback_pluginsフォルダ作る
+- tweet.pyをおく(個人で使う場合は別途API Keyとかもろもろ入手して書き換えてね)
+- あとは普通にPlaybookを実行するだけ！
+---
 ## 問題点
-- **超汚い**コード (ごめん)
+- **超汚いコード*** (ごめん)
 - **Keyとか埋め込んじゃってる**
 - 失敗判定してない(時間なかった)
 - 100台とかデプロイしたら連投制限でアカウント規制されそう
