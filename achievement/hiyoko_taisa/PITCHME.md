@@ -12,7 +12,9 @@
 - あとは普通にPlaybookを実行するだけ！
 ---
 ## 実行すると
-<img src="https://pbs.twimg.com/media/DVLPEctV4AACT1e.jpg">   
+<img src="https://pbs.twimg.com/media/DVLPEctV4AACT1e.jpg">   
+
+## 地味
 ---
 ## 問題点
 - **超汚いコード** (ごめん)
